@@ -1,1 +1,31 @@
-/* Add your CSS here */
+
+ul{
+  text-align: center;
+}
+li {
+  text-align: center;
+  background: maroon;
+  display: inline;
+  padding: 50px;
+  font-size: 35px;
+  color: white;
+  margin: 5px;
+  margin-right: 35px;
+}
+h1 {
+  text-align: left;
+  font-size: 68px;
+  margin-bottom: -3px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 99%;
+  margin-bottom: 100px;
+}
+p{
+  margin-top: 75px;
+  text-align: justify;
+  font-size: 30px;
+}
