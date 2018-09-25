@@ -1,1 +1,31 @@
-/* Add your CSS here */
+h1, h2{
+  color: grey;
+}
+li {
+    list-style-type: none;
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    padding-left: 42px;
+  }
+  li:hover{
+    border-left: 2px solid black;
+    padding-left: 40px;
+  }
+nav {
+  float: left;
+  margin-bottom: 100%;
+  padding-right: 5%;
+  border-right: 2px solid black;
+  margin-right: 35px;
+  margin-top: -35px;
+}
+h3 {
+ font-size: 40px;
+}
+p {
+  font-size: 20px;
+}
+ul {
+  padding: 0px;
+}
