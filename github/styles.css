@@ -19,7 +19,7 @@ h1{
   margin-right: 30%;
   margin-top: 100px;
 }
-p{
+p.sweet{
   text-align: center;
   font-size: 25px;
   margin-left: 23%;
@@ -38,4 +38,24 @@ li.new {
 ul.wow{
   text-align: center;
   margin-top: 75px;
+}
+p.big{
+  width: 90%;
+  text-align: justify;
+}
+a {
+  float: left;
+  margin-right: 15px;
+
+}
+a .massive {
+  float: left;
+}
+section.one{
+  width: 50%;
+  float: left;
+}
+section.second{
+  float: right;
+  width: 50%
 }
