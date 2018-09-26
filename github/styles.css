@@ -1,1 +1,41 @@
-/* Add your CSS here */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li {
+    display: inline;
+    color: blue;
+    padding: 8px 13px;
+    text-decoration: none;
+    margin-top: -20px;
+    font-size: 25px;
+  }
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 100px;
+}
+p{
+  text-align: center;
+  font-size: 25px;
+  margin-left: 23%;
+  margin-right: 23%;
+}
+li.new {
+  text-align: center;
+  background: white;
+  display: inline;
+  padding: 35px;
+  font-size: 25px;
+  color: blue;
+  margin: 3px;
+  margin-right: 3px;
+}
+ul.wow{
+  text-align: center;
+  margin-top: 75px;
+}
