@@ -27,7 +27,6 @@ p.sweet{
 }
 li.new {
   text-align: center;
-  background: white;
   display: inline;
   padding: 35px;
   font-size: 25px;
@@ -43,19 +42,22 @@ p.big{
   width: 90%;
   text-align: justify;
 }
-a {
+.tiny {
   float: left;
   margin-right: 15px;
 
 }
-a .massive {
+.massive {
   float: left;
+  margin-right: 25px;
 }
 section.one{
   width: 50%;
   float: left;
+  margin-top: 75px;
 }
 section.second{
   float: right;
-  width: 50%
+  width: 50%;
+  margin-top: 75px;
 }
