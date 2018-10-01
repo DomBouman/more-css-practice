@@ -1,1 +1,6 @@
-/* Add your CSS here */
+h1 {
+  color: orange;
+}
+h2 {
+  margin-top: 30px;
+}
