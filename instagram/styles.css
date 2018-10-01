@@ -1,4 +1,4 @@
-h1, h2{
+.headcolor {
   color: grey;
 }
 li {
@@ -21,7 +21,7 @@ nav {
   margin-top: -35px;
   height: 55em;
 }
-h3 {
+h1  {
  font-size: 40px;
 }
 p {
